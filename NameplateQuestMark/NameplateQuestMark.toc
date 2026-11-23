@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Nameplate Quest Mark
+## Notes: Shows a "!" on enemy nameplates that belong to one of your active quests. Works with the default nameplates and BetterNamePlates.
+## Author: Nexxo-Ashenbow, Claude
+## Version: 1.2.0
+## OptionalDeps: BetterNamePlates
+
+NameplateQuestMark.lua
