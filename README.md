@@ -17,3 +17,8 @@ Einfach installieren – es gibt nichts einzustellen. Namensplaketten für Gegne
 Unter [Releases](../../releases) die neueste Zip laden und nach `World of Warcraft/_forever_/Interface/AddOns/` entpacken.
 
 Autor: Nexxo-Ashenbow, Claude · Lizenz: MIT (siehe LICENSE)
+
+**Mit WowUp (automatische Updates):** In WowUp WoW Forever auswählen → **Get Addons** → **Install from URL** →
+`https://github.com/hansfriedmeier-arch/NameplateQuestMark` eintragen → installieren. WowUp holt danach jede neue Version von hier
+(es nimmt die Zip, die auf `-forever.zip` endet).
+
